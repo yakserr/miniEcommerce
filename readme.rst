@@ -3,16 +3,23 @@ About This Repo
 ###################
 
 Hii.
+
 This repo dedicated for Final Assignment course Pemrograman Web. miniEcommerce uses Framework Codeigniter 3.
+
 As you can see at the the name of project miniEcommerce, I built this with a very simple way.
 
 what needs to be fixed ?
+
 1. Old value for image and tag option.
+
 2. Function buttons on the front-end like filters.
+
 3. Clean Code.
 
 if you wanna ask something, please let me know
+
 my Twitter : yakser_
+
 Thanks.
 
 *******************
